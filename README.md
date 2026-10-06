@@ -8,9 +8,13 @@ Through academic and personal projects, I have gained experience in **requiremen
 
 ### Skills
 
-**Business Analysis:** Requirements Analysis · Business Process Analysis · System Analysis · UML · SDLC · Agile
+**Business Analysis:** Requirements Analysis · Business Process Analysis · Workflow Modeling · SDLC · Agile
 
-**Technical & Data:** SQL Server · Microsoft Excel · Odoo · Data Analysis · Python · C# · .NET
+**System Analysis & Modeling:** Use Case · UML · DFD · ERD · Data Modeling
+
+**Data & Analytics:** Data Analysis & Visualization · Python · Machine Learning
+
+**Technical:** SQL Server · C# · .NET · Entity Framework Core · HTML · CSS · JavaScript · Tailwind CSS
 
 ### Projects
 
