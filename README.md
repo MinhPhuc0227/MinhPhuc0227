@@ -23,4 +23,4 @@ I have worked on projects involving:
 
 ### Contact
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](www.linkedin.com/in/nguyenminhphuc0227)
