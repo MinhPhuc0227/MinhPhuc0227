@@ -8,7 +8,7 @@ Through academic and personal projects, I have gained experience in **requiremen
 
 ### Skills
 
-**Business Analysis:** Requirements Analysis · Business Process Analysis · Workflow Modeling · SDLC · Agile
+**Business Analysis:** Requirements Analysis · Business Process Analysis · Workflow Modeling · SDLC 
 
 **System Analysis & Modeling:** Use Case · UML · DFD · ERD · Data Modeling
 
